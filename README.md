@@ -2,7 +2,7 @@
 
 **Autora:** Agustina Pérez
 **Curso:** Herramientas básicas para el Análisis de Datos — Centro de e-Learning UTN.BA
-**Cohorte:** [COMPLETAR]
+**Cohorte:** UTN.BA 2026
 
 ## Objetivo
 
@@ -27,10 +27,14 @@ conviene invertir el presupuesto publicitario según el objetivo de la campaña
 ## Pasos realizados
 
 1. **Definición de la pregunta y selección del dataset.**
-2. **Limpieza y preparación de datos (Python/pandas):** [COMPLETAR al finalizar]
-3. **Exploración y visualización (EDA con matplotlib/seaborn):** [COMPLETAR]
-4. **Cálculo de KPIs:** ROAS (Return on Ad Spend), CPA (Costo por Adquisición) y CTR (Click-Through Rate), calculados a partir de `spend`, `revenue`, `clicks`, `impressions` y `conversions`.
-5. **Dashboard interactivo en Power BI:** [COMPLETAR]
+2. **Limpieza y preparación de datos (Python/pandas):** conversión de fechas,
+   eliminación de columnas redundantes, cálculo de KPIs y análisis de outliers.
+3. **Exploración y visualización (EDA con matplotlib/seaborn):** 4 gráficos
+   analizando ROAS por plataforma, por objetivo de campaña, evolución temporal
+   del gasto y relación gasto-eficiencia.
+4. **Cálculo de KPIs:** ROAS (Return on Ad Spend) y CTR (Click-Through Rate),
+   calculados a partir de `spend`, `revenue`, `clicks` e `impressions`.
+5. **Dashboard interactivo en Power BI:** en desarrollo.
 6. **Publicación en GitHub.**
 
 ## Estructura del repositorio
@@ -42,8 +46,8 @@ conviene invertir el presupuesto publicitario según el objetivo de la campaña
 
 ## Enlaces
 
-- Notebook: [COMPLETAR enlace a nbviewer/GitHub]
-- Dashboard (.pbix o capturas): [COMPLETAR]
+- Notebook: [ver en GitHub](https://github.com/agusttinaperez/herramientasbasicas-perez-agustina/blob/main/notebooks/Trabajo_Final_Integrador_Agustina_P%C3%A9rez.ipynb)
+- Dashboard (.pbix o capturas): pendiente de publicación
 - Dataset fuente: https://www.kaggle.com/datasets/alinaboulsi/digital-marketing-performance-dataset
 
 ## Fuentes
