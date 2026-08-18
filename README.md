@@ -34,7 +34,7 @@ conviene invertir el presupuesto publicitario según el objetivo de la campaña
    del gasto y relación gasto-eficiencia.
 4. **Cálculo de KPIs:** ROAS (Return on Ad Spend) y CTR (Click-Through Rate),
    calculados a partir de `spend`, `revenue`, `clicks` e `impressions`.
-5. **Dashboard interactivo en Power BI:** en desarrollo.
+5. **Dashboard interactivo en Power BI:** completado, con 3 KPIs (ROAS, CTR, Spend), 3 visualizaciones (ROAS por plataforma, ROAS por plataforma y objetivo, evolución mensual del gasto) y panel de filtros por plataforma.
 6. **Publicación en GitHub.**
 
 ## Estructura del repositorio
@@ -47,7 +47,7 @@ conviene invertir el presupuesto publicitario según el objetivo de la campaña
 ## Enlaces
 
 - Notebook: [ver en GitHub](https://github.com/agusttinaperez/herramientasbasicas-perez-agustina/blob/main/notebooks/Trabajo_Final_Integrador_Agustina_P%C3%A9rez.ipynb)
-- Dashboard (.pbix o capturas): pendiente de publicación
+- Dashboard (.pbix): [ver en GitHub](https://github.com/agusttinaperez/herramientasbasicas-perez-agustina/blob/main/dashboard/dashboard_marketing.pbix)
 - Dataset fuente: https://www.kaggle.com/datasets/alinaboulsi/digital-marketing-performance-dataset
 
 ## Fuentes
